@@ -4,7 +4,7 @@ I'm Claryss Mae Pangasian, a 19-year-old Bachelor of Computer Science student. W
 ### College
 <b>BS Computer Science</b><br/>
 <b>New Era University</b><br/>
-2022 - present
+2023 - present
 
 ## Certification
 [My Cognitive Class SQL and Relational Databases Certificate](https://courses.cognitiveclass.ai/certificates/c2de6a5a243143c1b9620d81742f8608#)
